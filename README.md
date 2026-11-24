@@ -26,11 +26,11 @@ Select the right side view and draw a circle of diameter 16 mm at the centre, at
 ## Step 4
 After creating the hole, select the Fillet option, pick the two corners of the left arm and the two corners of the right arm, and apply a fillet of 16 mm. Once done, go to Design, choose Drawing and select From Design. Place the front view, top view, side view and isometric view on the sheet.
 
-<img width="278" height="446" alt="image" src="https://github.com/user-attachments/assets/8ab30588-e16b-42cd-bb37-69b5eaa51199" />
+# <img width="278" height="446" alt="image" src="https://github.com/user-attachments/assets/8ab30588-e16b-42cd-bb37-69b5eaa51199" />
 
-<img width="372" height="413" alt="image" src="https://github.com/user-attachments/assets/6c5fff11-389f-40ab-8209-3422219eaf87" />
+# <img width="372" height="413" alt="image" src="https://github.com/user-attachments/assets/6c5fff11-389f-40ab-8209-3422219eaf87" />
 
-<img width="473" height="392" alt="image" src="https://github.com/user-attachments/assets/1200cd09-b078-474b-808e-e58647e5fa07" />
+# <img width="473" height="392" alt="image" src="https://github.com/user-attachments/assets/1200cd09-b078-474b-808e-e58647e5fa07" />
 
 
 ## INPUT:
