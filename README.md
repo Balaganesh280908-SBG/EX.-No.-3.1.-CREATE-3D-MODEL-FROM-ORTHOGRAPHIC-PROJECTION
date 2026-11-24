@@ -11,39 +11,39 @@ To create a 3D model from given orthographic projection.
 4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
 
 ## PROCEDURE:
-1.	Open new file and then select sketch icon.
-2.	Select the plane for sketching. 
-3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch.
 
-![image](https://user-images.githubusercontent.com/113594316/198551199-8d9b7f6c-6ea7-4d59-8e8c-173f2b5e088f.png)
+## Step 1 
+Select the top view and create a sketch. Draw an outer rectangle and then draw the U-shaped profile using the Line tool. Set the thickness of the upper and lower arms to 11 mm. The gap between the two arms is 18 mm. The overall length of the main body is 52 mm. Extrude the sketch by 32 mm.
 
-4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
+<img width="292" height="487" alt="image" src="https://github.com/user-attachments/assets/2dff49a8-b913-41ac-81ac-e993456de391" />
 
-![image](https://user-images.githubusercontent.com/113594316/198551220-c7aa6694-4427-48e2-9d91-cd7e9615d651.png)
+## Step 2 
+Select the right side view and draw a circle of diameter 18 mm inside the rectangle. Extrude the circle by 32 mm. 
 
-5.	Use inspect feature to measure the dimensions of sketch.
+<img width="312" height="172" alt="image" src="https://github.com/user-attachments/assets/6766790c-62a0-437d-9603-9482bab239fb" />
 
-![image](https://user-images.githubusercontent.com/113594316/198551270-45875855-43a7-4471-af35-bd10cd9dd153.png)
+## Step 3
+Select the right side view and draw a circle of diameter 16 mm at the centre, at a distance of 32 mm from the side of the rectangle. Extrude the circle by -72 mm.
+## Step 4
+After creating the hole, select the Fillet option, pick the two corners of the left arm and the two corners of the right arm, and apply a fillet of 16 mm. Once done, go to Design, choose Drawing and select From Design. Place the front view, top view, side view and isometric view on the sheet.
 
-6.	After finishing the sketch use finish sketch option to finalize the sketch.
+<img width="278" height="446" alt="image" src="https://github.com/user-attachments/assets/8ab30588-e16b-42cd-bb37-69b5eaa51199" />
 
-![image](https://user-images.githubusercontent.com/113594316/198551309-8d7ac6c8-6740-479f-8186-195c89823fda.png)
+<img width="372" height="413" alt="image" src="https://github.com/user-attachments/assets/6c5fff11-389f-40ab-8209-3422219eaf87" />
 
-7.	Use extrude option to convert 3D model from sketch
+<img width="473" height="392" alt="image" src="https://github.com/user-attachments/assets/1200cd09-b078-474b-808e-e58647e5fa07" />
 
-![image](https://user-images.githubusercontent.com/113594316/198551340-fe1f3b48-df79-44ef-a4ae-ff1cd22503ea.png)
-
-8.	After finishing the model convert to drawing sheet per  ISO standard.
-
-![image](https://user-images.githubusercontent.com/113594316/198551370-54509915-ec69-4862-9c17-156d61a83b11.png)
 
 ## INPUT:
 ![image](https://user-images.githubusercontent.com/113594316/198551872-276f8b80-bea8-4d4a-b2e8-bfdcd1e9d3cc.png)
 
-## OUTPUT:
+## OUTPUT DRAWING:
 
 <img width="802" height="566" alt="image" src="https://github.com/user-attachments/assets/42c89124-8300-4c3d-bb63-c42176be090f" />
 
+## OUTPUT:
+
+<img width="718" height="450" alt="image" src="https://github.com/user-attachments/assets/f097f1d6-58dc-4299-933a-4af339e5f823" />
 
 
 ## RESULT:
